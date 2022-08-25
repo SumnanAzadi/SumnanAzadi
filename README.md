@@ -1,18 +1,9 @@
-### 👋 Hi there
-
 <img src="https://visitor-badge.glitch.me/badge?page_id=SumnanAzadi"/>
 
-```plain-text
-I am Rafe Sumnan Azade. Backend developer with over three years of successful 
-experience in Javascript and Python stack and are recognized consistently for 
-performance excellence and contributions to success in the Corporate industry. 
-
-Strengths in Django and Next.js backed by training in Computer Science & Engineering 
-and self-learned.
-
-```
 
 ### 👁 Bio
+
+💼 Backend developer with over three years of professional experience in Javascript and Python stack.
 
 🏢 Currently working at **[Mirailit Ltd.](https://mirailit.com/)**
 
@@ -65,7 +56,9 @@ and self-learned.
 
 <!--START_SECTION:waka-->
 
-[![Sumnan Azadi's Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=sumnanAzadi&layout=compact&theme=radical)](https://github.com/sumnanAzadi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumnanAzadi&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/sumnanAzadi)
+
+[![Waka Times](https://github-readme-stats.vercel.app/api/wakatime?username=sumnanAzadi&layout=compact&theme=radical)](https://github.com/sumnanAzadi)
 
 <!--END_SECTION:waka-->
 
