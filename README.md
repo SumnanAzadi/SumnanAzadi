@@ -55,12 +55,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumnanAzadi&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/sumnanAzadi)
 
 [![Waka Times](https://github-readme-stats.vercel.app/api/wakatime?username=sumnanAzadi&layout=compact&theme=radical)](https://github.com/sumnanAzadi)
-
-<!--END_SECTION:waka-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
