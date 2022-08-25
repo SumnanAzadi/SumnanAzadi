@@ -55,6 +55,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumnanAzadi&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/sumnanAzadi)
