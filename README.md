@@ -57,7 +57,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 August 2022 - To: 25 August 2022
+
+Total Time: 1 hr 23 mins
+
+Markdown   1 hr 18 mins    ███████████████████████▓░   94.36 %
+Python     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
