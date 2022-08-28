@@ -57,7 +57,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumnanAzadi&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/sumnanAzadi)
 
-[![Waka Times](https://github-readme-stats.vercel.app/api/wakatime?username=sumnanAzadi&layout=compact&theme=radical&custom_title="Waka Time Status since 26 Aug,2022")](https://github.com/sumnanAzadi)
+[![Waka Times](https://github-readme-stats.vercel.app/api/wakatime?username=sumnanAzadi&layout=compact&theme=radical&custom_title=Waka_Time_Status_Since_26_Aug_2022)](https://github.com/sumnanAzadi)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
