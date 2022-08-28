@@ -54,18 +54,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
-<!--START_SECTION:waka-->
-
-```text
-From: 24 August 2022 - To: 27 August 2022
-
-Total Time: 1 hr 23 mins
-
-Markdown   1 hr 18 mins    ███████████████████████▓░   94.36 %
-Python     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-```
-
-<!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumnanAzadi&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/sumnanAzadi)
 
